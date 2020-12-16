@@ -44,12 +44,12 @@ h) <img src="https://latex.codecogs.com/svg.latex?400." />
 3 features
 ```
 
-i) <img src="https://latex.codecogs.com/svg.latex?4.00 \times 10^2" />
+i) <img src="https://latex.codecogs.com/svg.latex?4.00\times10^2" />
 ```
 3 features
 ```
 
-j) <img src="https://latex.codecogs.com/svg.latex?3.010 \times 10^4" />
+j) <img src="https://latex.codecogs.com/svg.latex?3.010\times10^4" />
 ```
 4 features
 ```

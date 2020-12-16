@@ -358,7 +358,7 @@ e,b,c,d,a
 
 Compare your results to those given by Equation (2.2).
 
-<img src="https://latex.codecogs.com/svg.latex?Pm(n, x)=\frac{n!}{(n-x)!}" />
+<img src="https://latex.codecogs.com/svg.latex?Pm(n,x)=\frac{n!}{(n-x)!}" />
 
 i. *x* = 0
 ```
@@ -392,7 +392,7 @@ Pm(x, y) = 120 permutations
 
 b) Manually delete all duplicate permutations from each example of part (*a*), that is, cross out permutations that repeat a previous combination in a different order. Compare your results to those given by Equation (2.3).
 
-<img src="https://latex.codecogs.com/svg.latex?C(n, x)=\frac{n!}{x!(n-x)!}" />
+<img src="https://latex.codecogs.com/svg.latex?C(n,x)=\frac{n!}{x!(n-x)!}" />
 
 i. *x* = 0
 ```
@@ -464,8 +464,4 @@ a,b,c,d,e
 
 The sum of all combinations can be summarized as:
 
-<img src="https://latex.codecogs.com/svg.latex?\sum_{k=0}^5\left(\begin{array}{c}
-   5\\
-   k
-   \end{array}
-  \right)=(1+1)^5=2^5=32" />
+<img src="https://latex.codecogs.com/svg.latex?\sum_{k=0}^5\left(\begin{array}{c}5\\k\end{array}\right)=(1+1)^5=2^5=32" />

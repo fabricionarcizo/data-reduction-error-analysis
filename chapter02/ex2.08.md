@@ -26,4 +26,4 @@ Right: 0.7266
 
 **Predicted uncertainty:**
 
-<img src="https://latex.codecogs.com/svg.latex?s \approx \sqrt{np(1-p)}=\sqrt{1035 \times 0.2734 \times 0.7266}=14.3" />
+<img src="https://latex.codecogs.com/svg.latex?s\approx\sqrt{np(1-p)}=\sqrt{1035\times0.2734\times0.7266}=14.3" />
